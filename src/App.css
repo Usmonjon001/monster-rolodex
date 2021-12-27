@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Bebas+Neue&family=Bigelow+Rules&family=Public+Sans&display=swap');
+
 .App {
   text-align: center;
 }
@@ -36,3 +38,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+
+.monster__title{
+  font-family: 'Bigelow Rules', sans-serif;
+  font-size: 72px;
+  color: #0ccac4;
+}
+
+
